@@ -1,5 +1,7 @@
 {
     "name": "stefan/tenac",
     "description": "My first project that actualy does something useful for someone.",
-    "require": {}
+    "require": {
+        "slim/slim": "^3.4"
+    }
 }
